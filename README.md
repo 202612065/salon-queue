@@ -1,7 +1,7 @@
 # Salon Queue Management System — MAISON ROSE
 
-**Live demo:** <your-live-frontend-url>
-**Hosted on:** Vercel (frontend) + Render/Railway (backend)
+**Live demo:** https://salon-queue-theta.vercel.app
+**Hosted on:** Vercel (frontend) + Render (backend)
 **Staff access:** Open routes (`/reception`, `/admin`, `/display`, `/barber/meera`, `/barber/kavya`, `/barber/tara`) — no PIN required.
 
 ## About
